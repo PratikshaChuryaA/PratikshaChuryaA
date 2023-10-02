@@ -15,3 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![An image of @prathikshachurya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prathikshachurya)](https://holopin.io/@prathikshachurya)
+
+---
+
+### Profile Statistics <img src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></h3>
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-PratikshaChuryaA)
+<br>
+
+<h1 align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PratikshaChuryaA&show_icons=true&theme=dark" alt=Pratiksha Churya A's GitHub Stats" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikshaChuryaA&theme=dark&langs_count=10" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikshaChuryaA&theme=dark" alt=" Pratiksha Churya A's GitHub Stats" /><br>
+</h1>
