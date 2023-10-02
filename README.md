@@ -2,7 +2,7 @@
  Hello Everyone👋 
 </h1>
 
-<p  align="center"><img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="500" height="350" align ="center">
+<p  align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="500" height="350" align ="center">
 
 I am Pratiksha Churya A. A Data Science enthusiastic. Throughout my childhood, I have been very keen on learning new things, but I am most passionate about painting, I like creating art and filling it with colours.I am currently studying computer science with data science as specialization in Sahyadri College of Engineering and management.
 
