@@ -3,7 +3,10 @@
  Hello Everyone👋 
 </h1>
 
-
+---
+<br><br>
+<p  align="center"><img src="[https://user-images.githubusercontent.com/56001279/169039511-a3887a25-f6aa-449c-a269-82372aaa8618.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fprachijain136&psig=AOvVaw1tYYcUuffRoPkWpMkaOKDJ&ust=1696319767222000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCICbxdvx1oEDFQAAAAAdAAAAABAE)" width="300" height="250" align ="center">
+---
 I am Pratiksha Churya A. A Data Science enthusiastic. Throughout my childhood, I have been very keen on learning new things, but I am most passionate about painting, I like creating art and filling it with colours.I am currently studying computer science with data science as specialization in Sahyadri College of Engineering and management.
 
 <!--
