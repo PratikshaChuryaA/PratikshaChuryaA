@@ -1,4 +1,10 @@
-### Hi there I am Pratiksha Churya A👋
+### Hello Everyone👋
+<h1 align="center"> 
+ Hello Everyone👋 
+</h1>
+
+
+I am Pratiksha Churya A. A Data Science enthusiastic. Throughout my childhood, I have been very keen on learning new things and reading a lot of books, but I am most passionate about painting, I like creating art and filling it with colours.I am currently studying computer science with data science as specialization in Sahyadri College of Engineering and management.
 
 <!--
 **PratikshaChuryaA/PratikshaChuryaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
