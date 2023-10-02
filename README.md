@@ -35,3 +35,17 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikshaChuryaA&theme=dark&langs_count=10" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PratikshaChuryaA&theme=dark" alt=" Pratiksha Churya A's GitHub Stats" /><br>
 </h1>
+
+## Get in touch
+<p align="center">
+   <a href="mailto:prathikshachurya@gmail.com" target="_blank">
+   <img src="https://www.svgrepo.com/show/223047/gmail.svg" height="40px" alt="mail"/>
+   </a>&nbsp;&nbsp;
+   <a href="https://instagram.com/prathikshachurya" target="_blank">
+   <img src="https://www.svgrepo.com/show/134478/instagram.svg" height="40px" alt="Instagram"/>
+   </a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/pratikshachuryaa/" target="_blank">
+   <img src="https://www.svgrepo.com/show/134579/linkedin.svg" height="40px"/>
+   </a>&nbsp;&nbsp;
+   </a>
+</p>
